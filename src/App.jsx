@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Routes, Route } from "react-router-dom";
-import Navbar from "./components/navbar";
+import Navbar from "./components/navigation";
 import Home from "./pages/Home";
 import "./App.css";
 import { ScrollProgress } from "@/components/magicui/scroll-progress";
